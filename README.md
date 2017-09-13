@@ -1,6 +1,6 @@
 # LogPusher: Log tracking for Python
 
-[![Build Status](https://travis-ci.org/ysfkc/logpusher-python.svg?branch=master)](https://travis-ci.org/ysfkc/logpusher-python)
+[![Build Status](https://travis-ci.org/logpusher-python.svg?branch=master)](https://travis-ci.org/logpusher-python)
 
 LogPusher is a system that allows you to receive notifications through your mobile on a single application. Apart from push notifications, you can also receive information without a mobile client via SMS and Mail service. You can integrate with any software through the API. Thanks to rapid API integration, you do not spend extra time for information and mail service. 
 
@@ -34,12 +34,12 @@ print response
 
 ## Support
 
-* [Search open and closed issues](https://github.com/ysfkc/logpusher-python/issues?utf8=✓&q=is%3Aissue) for similar problems
-* [Report a bug or request a feature](https://github.com/ysfkc/logpusher-python/issues/new)
+* [Search open and closed issues](https://github.com/logpusher-python/issues?utf8=✓&q=is%3Aissue) for similar problems
+* [Report a bug or request a feature](https://github.com/logpusher-python/issues/new)
 
 ## Contributing
 
-1. Fork it ( https://github.com/ysfkc/logpusher-python/fork )
+1. Fork it ( https://github.com/logpusher-python/fork )
 2. Create your feature branch (git checkout -b my-new-feature)
 3. Commit your changes (git commit -am 'Add some feature')
 4. Push to the branch (git push origin my-new-feature)
